@@ -1,0 +1,14 @@
+{
+    "ABC": {
+        "phone": "9876543210",
+        "email": "abc@gmail.com"
+    },
+    "PQR": {
+        "phone": "8765432109",
+        "email": "pqr@gmail.com"
+    },
+    "XYZ": {
+        "phone": "9086584713",
+        "email": "xyz@gmail.com"
+    }
+}
